@@ -8,4 +8,4 @@
 
 使用方法：
 在names.txt中每行写入一个名字，并将其放在rollcall.exe文件的同目录下。
-之后再运行rollcall.exe文件即可实现对names.txt名单中人员的点名。
+之后再运行rollcall.exe文件即可实现对names.txt名单中人员的随机点名。
